@@ -5,3 +5,7 @@
 
 ・NAIST数学問題shirayu
 from https://www.shirayu.net/note/naist/data/exam.pdf
+
+・NAIST数学問題y-sira
+from https://www.shirayu.net/note/naist/data/exam.pdf
+2017年度入学者用の試験です.
