@@ -7,7 +7,7 @@
 from https://www.shirayu.net/note/naist/data/exam.pdf
 
 ・NAIST数学問題y-sira.pdf
-from https://www.shirayu.net/note/naist/data/exam.pdf
+from https://github.com/y-sira/naist-is-entrance-exam-math
 2017年度入学者用の試験です.
 
 ・NAIST数学問題&解答2018入学者用.pdf
